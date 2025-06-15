@@ -12,7 +12,7 @@ Applied **BERTopic** for unsupervised topic modeling on video transcripts and co
 
 ## Fine-Tuning spaCy for Named Entity Recognition (NER)
 
-Developed a domain-specific **NER model** by fine-tuning **spaCy** on a custom-labeled dataset. The model was tailored to identify basketball-related entities such as **NBA/WNBA players**, **teams**, **coaches**, **officials**, and **nicknames**—improving accuracy for sports commentary analysis and enhancing downstream text mining tasks.
+Developed a domain-specific **NER model** by fine-tuning **spaCy** on a custom-labeled dataset. The model was tailored to identify sport-related entities such as **players**, **teams**, **coaches**, **officials**, and **nicknames**—improving accuracy for sports commentary analysis and enhancing downstream text mining tasks.
 
 ## Sentiment Analysis
 
